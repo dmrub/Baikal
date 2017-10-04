@@ -1,0 +1,17 @@
+# Git repository metadata
+.git
+**/.gitignore
+
+# Docker specific files
+Dockerfile*
+docker-build.sh
+docker-run.sh
+.dockerignore
+
+# Backup files
+**/*~
+
+# Files currently being edited by vim or vi
+**/*.swp
+
+
